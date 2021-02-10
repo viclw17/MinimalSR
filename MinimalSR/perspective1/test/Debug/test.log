@@ -1,0 +1,42 @@
+﻿  geometry.cpp
+C:\Users\Victor Li\Downloads\tinyrenderer\perspective\geometry.cpp(7,10): warning C4812: obsolete declaration style: please use 'Vec3<int>::Vec3' instead
+C:\Users\Victor Li\Downloads\tinyrenderer\perspective\geometry.cpp(13,10): warning C4812: obsolete declaration style: please use 'Vec3<float>::Vec3' instead
+C:\Users\Victor Li\Downloads\tinyrenderer\perspective\geometry.cpp(14,10): warning C4244: '=': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+C:\Users\Victor Li\Downloads\tinyrenderer\perspective\geometry.cpp(15,10): warning C4244: '=': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+C:\Users\Victor Li\Downloads\tinyrenderer\perspective\geometry.cpp(16,10): warning C4244: '=': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+  main.cpp
+C:\Users\Victor Li\Downloads\tinyrenderer\perspective\main.cpp(36,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Victor Li\Downloads\tinyrenderer\perspective\main.cpp(145,56): warning C4305: 'argument': truncation from 'double' to 't'
+          with
+          [
+              t=float
+          ]
+C:\Users\Victor Li\Downloads\tinyrenderer\perspective\main.cpp(145,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor Li\Downloads\tinyrenderer\perspective\main.cpp(145,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  model.cpp
+  Generating Code...
+  test.vcxproj -> C:\Users\Victor Li\Downloads\tinyrenderer\perspective\test\Debug\test.exe

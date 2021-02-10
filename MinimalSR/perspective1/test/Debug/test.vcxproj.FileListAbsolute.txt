@@ -1,0 +1,2 @@
+C:\Users\Victor Li\Downloads\tinyrenderer\perspective\test\Debug\test.exe
+C:\Users\Victor Li\Downloads\tinyrenderer\perspective\test\Debug\test.pdb

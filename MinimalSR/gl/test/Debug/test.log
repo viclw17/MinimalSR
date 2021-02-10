@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\_cpp\tinyrenderer\tgaimage.h(60,54): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\_cpp\tinyrenderer\main.cpp(96,60): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\_cpp\tinyrenderer\main.cpp(96,57): warning C4244: '=': conversion from 'const _Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  test.vcxproj -> D:\_cpp\tinyrenderer\test\Debug\test.exe
